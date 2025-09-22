@@ -1,2 +1,2 @@
 intial commit
-made some changes in feature.txt
+Here will be merge conflict 
